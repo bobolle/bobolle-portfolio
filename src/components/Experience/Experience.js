@@ -4,7 +4,7 @@ import Job from './Job';
 export default class Experience extends React.Component {
     render() {
         return(
-            <div className="bg-accent rounded-xl shadow-lg p-4">
+            <div className="bg-accent rounded-md shadow-lg p-4">
                 <h5 className="text-primary font-bold text-lg">Erfarenhet</h5>
                 <div className="p-2">
 

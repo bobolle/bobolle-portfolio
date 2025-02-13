@@ -5,7 +5,7 @@ import { educationData } from './education-data';
 export default class Education extends React.Component {
 	render() {
 		return(
-        	<div className="p-4 bg-accent rounded-xl shadow-lg">
+        	<div className="p-4 bg-accent rounded-md shadow-lg">
 				<h5 className="text-primary font-bold text-lg">Utbildning</h5>
 				<div className="p-2">
 

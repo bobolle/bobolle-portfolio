@@ -4,7 +4,7 @@ import { AiFillStar } from 'react-icons/ai';
 export default class Project extends React.Component {
     render() {
         return(
-            <div className="bg-secondarybg rounded-xl shadow-lg transition hover:scale-105 duration-200">
+            <div className="bg-secondarybg rounded-sm shadow-md transition hover:scale-105 duration-100">
                 <a href={this.props.link} target="_blank" rel="noreferrer">    
                     <div className="flex flex-col justify-between p-2 w-full h-full text-base-content">
                         <div>

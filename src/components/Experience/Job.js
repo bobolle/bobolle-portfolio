@@ -3,7 +3,7 @@ import React from 'react';
 export default class Job extends React.Component {
     render() {
         return(
-            <div className="mt-2 p-2 bg-secondarybg rounded-xl shadow-xl">
+            <div className="mt-2 p-2 bg-secondarybg rounded-sm shadow-md">
 				<div className="flex justify-between">
 					<div className="text-md font-bold text-primary">
 						{this.props.job}

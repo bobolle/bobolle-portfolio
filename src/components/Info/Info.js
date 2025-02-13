@@ -6,7 +6,7 @@ import { AiFillLinkedin, AiFillGithub } from 'react-icons/ai';
 export default class Info extends React.Component {
 	render() {
 		return(
-			<div className="p-4 bg-accent rounded-xl shadow-lg">
+			<div className="p-4 bg-accent rounded-md shadow-lg">
 				<div className="text-primary font-bold text-lg">Info</div>
 				<div className="p-2 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-1">
 					<InfoRow icon={<HiFlag size={30}/>} title="Plats" description="Södertälje, Sweden" />

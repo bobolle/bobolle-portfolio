@@ -25,9 +25,9 @@ export default class Projects extends React.Component {
 
     render() {
         return (
-            <div className="bg-accent rounded-xl shadow-lg p-4">
+            <div className="bg-accent rounded-md shadow-lg p-4">
                 <h5 className="text-primary font-bold text-lg">Github Projekt</h5>
-                <div className="grid grid-cols-2 gap-4 text-base-content p-2">
+                <div className="grid sm:grid-cols-2 md:grid-cols-2 xl:grid-cols-3 gap-4 text-base-content p-2">
                    {this.state.projects.map((project) => (
                         <Project 
                            key={project.id}
