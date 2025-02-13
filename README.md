@@ -7,8 +7,8 @@ Personal project for [Bobolle Portfolio](https://botdahl.github.io/bobolle-portf
 * clone the repo
 
 ```
-git clone https://github.com/botdahl/botdahl-portfolio.git
-cd botdahl-portfolio
+git clone https://github.com/bobolle/bobolle-portfolio.git
+cd bobolle-portfolio
 ```
 * install dependencies
 ```
