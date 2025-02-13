@@ -1,6 +1,6 @@
 # Portfolio using React, Tailwind and gh-pages for github pages
 
-Personal project for [Bobolle Portfolio](https://botdahl.github.io/bobolle-portfolio/).
+Personal project for [Bobolle Portfolio](https://bobolle.github.io/bobolle-portfolio/).
 
 ## local setup
 
